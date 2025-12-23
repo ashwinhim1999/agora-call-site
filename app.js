@@ -1,5 +1,5 @@
 const APP_ID = "b183011bd9704da19aae5115ad40e2c6";
-const TOKEN_SERVER = "https://your-token-server.onrender.com/token";
+const TOKEN_SERVER = "https://agora-token-server-u1ul.onrender.com/token";
 
 const client = AgoraRTC.createClient({ mode: "rtc", codec: "vp8" });
 
